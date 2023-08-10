@@ -1,0 +1,1 @@
+Si ocurrió un problema, no se puedo hacer commit.
