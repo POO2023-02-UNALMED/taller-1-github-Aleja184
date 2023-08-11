@@ -3,3 +3,7 @@ Alejandra Toro Grisales
 Aprender nuevos conceptos
 
 Porque la carpeta ya no esta vacia
+
+¿Por qué
+es importante tener cuidado con modificar dos archivos al mismo tiempo?
+Porque pueden surgir conflictos
